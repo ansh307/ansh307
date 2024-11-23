@@ -102,12 +102,6 @@ Welcome to my GitHub profile! I’m a passionate software engineer, constantly i
 
 ---
 
-## 🎓 Education  
-**Lakshmi Narain College of Technology, Bhopal, Madhya Pradesh**  
-- Bachelor of Technology in Computer Science (2022 – 2026)  
-
----
-
 ## 🌱 Currently Learning  
 - **Solidity**: Delving into blockchain and smart contracts.  
 
