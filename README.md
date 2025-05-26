@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I’m a passionate software engineer, constantly i
 
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/ansh-soni-45623b257) 
-[![X](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)]([https://www.linkedin.com/in/ansh-soni-45623b257](https://x.com/Anshjz))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/ansh-soni-45623b257)    
+[![X](https://img.shields.io/badge/Twitter-Follow-black?logo=twitter&style=flat)](https://x.com/Anshjz)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat)](https://github.com/ansh307)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-orange?logo=web&style=flat)](https://atlasanderson.netlify.app/about)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:anshsoni55333@gmail.com)  
